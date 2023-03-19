@@ -221,7 +221,7 @@ http://validator.w3.org/
 
 ## Additional HTML practice
 
-If you finish early, and/or you want some more practice, work through the following sections of exercises at W3Schools:
+If you you want some more practice, work through the following sections of exercises at W3Schools:
 
 https://www.w3schools.com/html/exercise.asp
 
